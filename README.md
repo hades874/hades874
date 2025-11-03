@@ -2,16 +2,17 @@
 
 🎨 **Photographer | 💻 AI Developer | 🌍 Storyteller**
 
-I’m passionate about blending **technology and creativity** — from building intelligent systems to capturing stories through my lens.  
+I’m passionate about blending **technology and creativity**, from building intelligent systems to capturing stories through my lens.  
 Currently exploring **AI-driven automation**, **multilingual LLMs**, and **creative storytelling with data**.
 
 ---
 
 ### 🧠 What I’ve Been Up To
+- 💼 Intern, Content Operations (AI and Automation)  
 - 📷 Head of Photography @ University Club  
 - 🤖 Building AI tools that bridge creativity and functionality  
 - 🧩 Exploring LLM-based **Q&A systems**, **text classification**, and **document understanding**  
-- 🌱 Always learning — from model optimization to visual storytelling
+- 🌱 Always learning, from model optimization to visual storytelling
 
 ---
 
@@ -22,13 +23,13 @@ Currently exploring **AI-driven automation**, **multilingual LLMs**, and **creat
 
 ### 📂 Featured Works
 - 🧠 **Detection to Intervention:** Comparative analysis of ML models for suicide prevention  
-- ✈️ **Insightful Analysis of Bangladeshi Airlines:** Aspect-based sentiment & summarization using LLMs  
+- ✈️ **Insightful Analysis of Bangladeshi Airlines:** Aspect-based sentiment and summarization using LLMs  
 - ⚙️ **Automation Projects:** Google Sheets + Apps Script for smart workflow systems  
 
 ---
 
 ### 📸 Beyond Code
-When I’m not coding, you’ll find me telling stories through light and shadow —  
+When I’m not coding, you’ll find me telling stories through light and shadow,  
 capturing **solitude, emotion, and depth** in still moments.
 
 ---
