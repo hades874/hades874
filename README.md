@@ -39,10 +39,9 @@ I blend <b>technology</b> and <b>creativity</b>, building intelligent systems an
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades874&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
-</p>
 
+  
 ---
 
 ### 📸 Beyond Code
@@ -58,9 +57,6 @@ capturing **solitude, emotion, and depth** in still moments.
   </a>
   <a href="h.farabi01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
