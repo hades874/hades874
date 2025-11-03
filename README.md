@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hasan Farabi
 
-🎨 **Photographer | 💻 AI Developer | 🌍 Storyteller**
+💻 AI Developer | 🎨 **Photographer | 🌍 Storyteller**
 
 I’m passionate about blending **technology and creativity**, from building intelligent systems to capturing stories through my lens.  
 Currently exploring **AI-driven automation**, **multilingual LLMs**, and **creative storytelling with data**.
