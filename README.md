@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hasan Farabi
 
-💻 AI Developer | 🎨 **Photographer | 🌍 Storyteller**
+💻 AI Engineer / Developer | 🎨 **Photographer | 🌍 Storyteller**
 
 I’m passionate about blending **technology and creativity**, from building intelligent systems to capturing stories through my lens.  
 Currently exploring **AI-driven automation**, **multilingual LLMs**, and **creative storytelling with data**.
@@ -9,7 +9,7 @@ Currently exploring **AI-driven automation**, **multilingual LLMs**, and **creat
 
 ### 🧠 What I’ve Been Up To
 - 💼 Intern, Content Operations (AI and Automation)  
-- 📷 Head of Photography @ University Club  
+- 📷 Head of Photography @ AUST Programming and Informatics Club  
 - 🤖 Building AI tools that bridge creativity and functionality  
 - 🧩 Exploring LLM-based **Q&A systems**, **text classification**, and **document understanding**  
 - 🌱 Always learning, from model optimization to visual storytelling
