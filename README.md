@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Hasan Farabi</h1>
 
 <p align="center">
-💻 <b>AI Developer / Engineer</b> • 🎨 <b>Photographer</b> • 🌍 <b>Storyteller</b><br>
+💻 <b>AI Engineer / Developer </b> • 🎨 <b>Photographer</b> • 🌍 <b>Storyteller</b><br>
 I blend <b>technology</b> and <b>creativity</b>, building intelligent systems and capturing human stories.
 </p>
 
