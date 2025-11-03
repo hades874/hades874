@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Hasan Farabi
 
-<!--
-**hades874/hades874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Photographer | 💻 AI Developer | 🌍 Storyteller**
 
-Here are some ideas to get you started:
+I’m passionate about blending **technology and creativity** — from building intelligent systems to capturing stories through my lens.  
+Currently exploring **AI-driven automation**, **multilingual LLMs**, and **creative storytelling with data**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I’ve Been Up To
+- 📷 Head of Photography @ University Club  
+- 🤖 Building AI tools that bridge creativity and functionality  
+- 🧩 Exploring LLM-based **Q&A systems**, **text classification**, and **document understanding**  
+- 🌱 Always learning — from model optimization to visual storytelling
+
+---
+
+### 🛠️ Tech Stack
+`Python` • `TensorFlow` • `Scikit-learn` • `Google Apps Script` • `JavaScript` • `React` • `Docker` • `Three.js`
+
+---
+
+### 📂 Featured Works
+- 🧠 **Detection to Intervention:** Comparative analysis of ML models for suicide prevention  
+- ✈️ **Insightful Analysis of Bangladeshi Airlines:** Aspect-based sentiment & summarization using LLMs  
+- ⚙️ **Automation Projects:** Google Sheets + Apps Script for smart workflow systems  
+
+---
+
+### 📸 Beyond Code
+When I’m not coding, you’ll find me telling stories through light and shadow —  
+capturing **solitude, emotion, and depth** in still moments.
+
+---
+
+### 🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/hasan-farabi/) • [Email](mailto:sourovbdcalling@gmail.com) • [Instagram](#)
+
+---
+
+🕊️ _“Where logic meets light, stories are born.”_
