@@ -2,8 +2,8 @@
 <h1 align="center">👋 Hi, I'm Hasan Farabi</h1>
 
 <p align="center">
-🎨 <b>Photographer</b> • 💻 <b>AI Developer</b> • 🌍 <b>Storyteller</b><br>
-I blend <b>technology</b> and <b>creativity</b> — building intelligent systems and capturing human stories.
+💻 <b>AI Developer / Engineer</b> • 🎨 <b>Photographer</b> • 🌍 <b>Storyteller</b><br>
+I blend <b>technology</b> and <b>creativity</b>, building intelligent systems and capturing human stories.
 </p>
 
 ---
@@ -66,6 +66,3 @@ capturing **solitude, emotion, and depth** in still moments.
 </p>
 
 ---
-
-<p align="center">
-🕊️ <i>“Where logic meets
