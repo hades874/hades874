@@ -10,7 +10,7 @@ I blend <b>technology</b> and <b>creativity</b>, building intelligent systems an
 
 ### 🧠 What I’ve Been Up To
 - 💼 Intern, Content Operations (AI and Automation)  
-- 📷 Head of Photography @ University Club  
+- 📷 Head of Photography @ AUST Programming and Informatics Club  
 - 🤖 Building AI tools that bridge creativity and functionality  
 - 🧩 Exploring LLM-based **Q&A systems**, **text classification**, and **document understanding**  
 - 🌱 Always learning, from model optimization to visual storytelling
