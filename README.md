@@ -52,7 +52,7 @@ capturing **solitude, emotion, and depth** in still moments.
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasan-farabi/">
+  <a href="https://www.linkedin.com/in/hasanfarabi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="h.farabi01@gmail.com">
