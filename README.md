@@ -38,11 +38,6 @@ I blend <b>technology</b> and <b>creativity</b>, building intelligent systems an
 
 ---
 
-### 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades874&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
-
-  
----
 
 ### 📸 Beyond Code
 When I’m not coding, you’ll find me telling stories through light and shadow,  
