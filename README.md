@@ -20,13 +20,13 @@ Executive, Content Engineering at [10 Minute School](https://10minuteschool.com)
 <td width="50%" valign="top">
 
 ### RAG and knowledge systems
-Worked on retrieval-augmented generation pipelines with a custom vector database, reducing manual operations effort for the content team.
+Worked on retrieval-augmented generation pipelines with a custom vector database, reducing manual operations effort for the team.
 
 </td>
 <td width="50%" valign="top">
 
 ### Multi-agent automation
-Content pipelines on **n8n** and **Gemini**, including Bangla OCR correction and QAC agents that verify and normalize academic content.
+Content pipelines on **n8n** and **Google Appscript**, including Bangla OCR correction and QAC agents that verify and normalize academic content.
 
 </td>
 </tr>
